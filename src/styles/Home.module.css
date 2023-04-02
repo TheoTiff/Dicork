@@ -1,0 +1,8 @@
+.main {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif 
+}
+.headBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+}
