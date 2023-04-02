@@ -47,4 +47,4 @@ Ce projet est sous licence MIT. Veuillez consulter le fichier `LICENSE` pour plu
 
 ## Auteur
 
-Ce projet a été développé par Akira Yamamoto.
+Ce projet a été développé par Minao Ishikawa.
